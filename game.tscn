@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://6mdn4f7nc7ld"]
+
+[node name="Game_tscn" type="Node2D"]
+visible = false
